@@ -40,11 +40,16 @@ h1 {
 h2.smallhead {
   background-image: url("../images/the-flatiron-building.png");
   }
+
+/* smallhead styles*/
+
 #process h2 {
   font-size: 32px;
   font-weight: bold;
 
 }
+
+/* process styles*/
 
 #process h3 {
   font-size: 23px;
@@ -54,3 +59,19 @@ h2.smallhead {
 #process p {
     font-size: 14px;
     }
+
+/* footer styles*/
+
+#footer p {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+#footer .footnav {
+  color: white;
+  font-size: 18px;
+  padding: 0px 5px;
+
+}
